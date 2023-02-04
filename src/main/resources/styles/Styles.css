@@ -1,0 +1,18 @@
+/* CSS for app */
+
+.btnGreen{
+	-fx-background-color:  #3cbc53;
+}
+
+.background{
+	-fx-background-color: DODGERBLUE;
+}
+
+.table-row-cell:selected {
+   -fx-background-color: #17A2B8; 
+}
+
+.table-row-cell:selected .text {
+       -fx-fill: #F8F9FA ;
+
+}
